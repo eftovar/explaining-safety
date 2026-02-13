@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18632274.svg)](https://doi.org/10.5281/zenodo.18632274)
+Primary academic DOI (OSF): https://doi.org/10.17605/OSF.IO/AXBND
+
 # Explaining Safety Is Not Enforcing Safety
 
 **Evans Tovar**  
